@@ -19,21 +19,8 @@ Where there is additional information about the status of indicator data collect
 ## How often will new data be added to this site?
 We will add data as soon as it has been sourced and checked. This includes new data as well as updates to data we have already published. We will continue to collect data from existing sources where possible, in cooperation with topic experts.
 
-## What are you doing to fill data gaps?
-For some indicators, although we may have data at the national level, our existing data sources don’t always allow us to disaggregate by all main groups.
-
-This means we need to look for new data sources, link existing ones, or model data. We are working with colleagues across the Government Statistical Service to do this, including the Data Science Campus.
-
-We have recently published our response to the [consultation on measuring and reporting SDGs in the UK](https://consultations.ons.gov.uk/sustainable-development-goals/ons-approach-to-measuring-reporting-sdgs-in-the-uk/) where we asked for your ideas on prioritising data development. Your feedback will inform our data development plans, which will be published here in 2018.
-
-## How accessible is this website?
-Our aim is to make this website as accessible and usable as possible for every user. We are working towards meeting AA level of the [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20). We have recently undertaken an accessibility audit by the [Digital Accessibility Centre](http://digitalaccessibilitycentre.org/) and are using the recommendations from this review to help us improve our website.
-
 ## What browsers can I use to view this website?
 We are developing and testing our site in line with the Government Digital Service (GDS) [guidance on designing for different browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices). Our website works with most of the latest versions of the commonly used browsers listed in the ‘Browsers to test in’ section of the GDS guidance. There are some issues with using the site on older versions of browsers eg IE8 and we are working to fix these.
-
-## Can other countries copy this website?
-Yes. We have deliberately developed an open source solution for reporting UK SDGs data so other countries can freely reuse our code. Technical guidance on copying our site is available in our [wiki](https://github.com/datasciencecampus/sdg-indicators/wiki). Countries exploring how to report their own SDGs national data can also get support from the [Center for Open Data Enterprise (CODE)](http://www.opendataenterprise.org/) through their [SDG National Reporting Initiative](https://www.sdgreporting.org/).
 
 <!-- DO NOT REMOVE ANYTHING BELOW THIS LINE -->
 <script type='text/javascript'>

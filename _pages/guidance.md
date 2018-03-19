@@ -19,7 +19,7 @@ Our wiki pages also include more detailed information for people adding data and
 - [Data scenarios and characteristics](https://github.com/datasciencecampus/sdg-indicators/wiki/Data-scenarios-and-characteristics)
 
 ## Creating a copy of this website
-Other countries wishing to reuse this UK SDG reporting platforms or the [US SDG reporting platform](https://sdg.data.gov/) are welcome to do so for free.
+Other countries wishing to reuse this SDG reporting platforms or the [US SDG reporting platform](https://sdg.data.gov/) are welcome to do so for free.
 
 The technical guidance in our [wiki pages]( https://github.com/datasciencecampus/sdg-indicators/wiki) is aimed at countries taking a copy of the UK website, including information such as:
 -	[Required skill sets](https://github.com/datasciencecampus/sdg-indicators/wiki/Required-skill-sets)
