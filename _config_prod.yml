@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: U.K. Indicators For The Sustainable Development Goals
+title: Ghana Indicators For The Sustainable Development Goals
 description: Data Platform Prototype
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
@@ -15,19 +15,19 @@ environment: production
 # permalink: /news/:year/:month/:day/:title.html
 
 analytics:
-  ga_prod: 'UA-108503280-1'
+  ga_prod: ''
 
 ###################################################################################################
 email_contacts:
-  questions: sustainabledevelopment@ons.gov.uk
-  suggestions: sustainabledevelopment@ons.gov.uk
-  functional: sustainabledevelopment@ons.gov.uk
+  questions: email@email.com
+  suggestions: email@email.com
+  functional: email@email.com
 ###################################################################################################
 
 #Github Repo
 repo_name: sdg-indicators
 branch: develop
-org_name: datasciencecampus
+org_name: sustainabledevelopment-ghana
 
 # Build settings
 markdown: kramdown
@@ -38,8 +38,8 @@ exclude: [vendor, scripts]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: UK
-  adjective: UK
+  name: Ghana
+  adjective: Ghanaian
 
 # Pages
 collections:
