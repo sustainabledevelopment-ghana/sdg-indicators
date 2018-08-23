@@ -4,4 +4,6 @@ permalink: /about/
 layout: page
 ---
 
-This page is an "about" page for introducing this site.
+Ghana Statistical Service is responsible for the collection and reporting of Ghana data for the Sustainable Development Goal indicators and for reporting Ghana's progress towards them.
+
+This website is for disseminating Ghana SDG data.
