@@ -1,4 +1,4 @@
-Year	GeoCode	Geography	Location	Age	Sex	Value
+Year,GeoCode,Geography,Location,Age,Sex,Value
 2010						8.3
 2010				15+	Male	11.1
 2010				15+	Female	5.7
