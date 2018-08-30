@@ -73,7 +73,7 @@ If your email is visible at the bottom, you've done it right and you can save th
 b. private key (deploy_key)
 
 You need to add your private key to your computer's SSH agent.
-## $ eval $(ssh-agent -s)
+## eval $(ssh-agent -s)
 
 Add deploy_key to your list of SSH keys using:
 ssh-add /c/repo/key/deploy_key
