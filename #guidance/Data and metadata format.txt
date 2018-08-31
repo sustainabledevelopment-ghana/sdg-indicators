@@ -14,7 +14,7 @@ The 'GeoCode' column should be one space to the left of the 'Value' column, whic
 If the data is not show on the tool after a pull request, make sure that the metadata field 'reporting status' = 'complete'.
 
 Finally, when checking for whitespace in Excel, you can use and drag the following formula (example for cell A1).
-=if(or(left(A1,1)=" ",(right(A1,1)=" "),"Whitespace","")
+=if(or(left(A1,1)=" ",(right(A1,1)=" ")),"Whitespace","")
 
 -----------------
 
