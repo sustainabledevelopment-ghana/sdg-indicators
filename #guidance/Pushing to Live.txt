@@ -5,15 +5,12 @@ as i) both sites are public, and ii) another user may make a push to the Live si
 
 For this part of the guidance, you will be using GitHub.com instead of Git Bash.
 
-Pushing to Staging / Live has 3 steps:
-1. Create a Pull Request comparing Develop branch to Master branch
-2. Wait for Travis CI (.org) to rebuild the site, and merge the changes
-3. Push to Live (optional)
+Pushing to Staging has 1 step:
+1. Commit changes to a CSV or metadata file (and wait 10 minutes)
 
 Pushing to Live has 2 steps:
-1. Open the working directory
-2. Make required changes to data/metadata/scripts
-3. Push changes to the repository
+1. Create a Pull Request comparing Develop branch to Master branch
+2. Wait for Travis CI (.org) to rebuild the site, and merge the changes
 
 Troubleshooting section at the bottom of the page.
 
@@ -23,11 +20,21 @@ Any questions, you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
 
 Pushing to Staging
 
+1. Commit changes to a CSV or metadata file (and wait 10 minutes)
+
+It is very simple to make changes to the Ghana Staging site - simply commit an update a CSV fileand metadata file in 'sdg-indicators',
+and then wait 10 minutes for the Staging site (https://sustainabledevelopment-ghana.github.io/sdg-indicators/) to catch up.
+
+For example, you can toggle the display of indicator 1.1.1 by changing metadata field 'reporting_status' to 'notstarted' or 'complete'.
+
+-----------------
+
+Pushing to Live
+
 1. Create a Pull Request comparing Develop branch to Master branch
 
-To push to the Staging site, open GitHub.com and go to your repository 'sdg-data'.
-Make sure your branch is 'develop', and that you have reviewed all pending Pull Requests.
-Click 'New pull request' and update the 'base fork' (left-hand option) to your repo's master branch.
+To push commited changes to the Live site (https://sustainabledevelopment-ghana.github.io/), make sure your branch is 'develop'.
+Click 'New pull request' and update the 'base fork' (left-hand option) to your repo's 'master' branch.
 For example, for the Ghana SDG site it will be sustainabledevelopment-ghana/sdg-data > master.
 
 If 'master' is on the left and 'develop' on the right, and the repo name is as expected, then you can proceed.
@@ -42,16 +49,15 @@ Note: If you haven't used Travis before, just follow the instructions to link yo
 
 Fingers crossed the Travis 'build' will go through with no problems, and turn green.
 If so, go back to GitHub and merge your Pull Request by clicking the green button.
-Within about 15-30 minutes (it varies), the changes should have appeared on your site.
+Within about 15-30 minutes (it varies), the changes should have be pushed to the Live site.
 If they haven't proceed to 'Troubleshooting' below.
 
 If it goes red, or runs for more than 10 minutes there is a problem.
 Proceed to 'Troubleshooting' below.
 
-3. Pushing to Live (optional)
-
-Exactly the same process as pushing to Staging, but use the 'sdg-indicators' repo instead of 'sdg-data'.
-Only do this if you are happy for the changes to go Live.
+If you are having problems (files not apopearing on Staging or Live), then try going to travis-ci.org, and
+clicking 'Restart Build' for sdg-indicators, then (when it's gone green) sdg-data. This will hopefully clear any blocks.
+If not, it could be a problem with the metadata. Ensure that reporting status is set to 'complete', and that the CSV passes checks.
 
 Job's a good'un! You have now pushed to Live/Staging.
 
@@ -90,7 +96,7 @@ update the metadata through the 'Edit' button on the site to help add a missing 
 Cause: 5.5.1 CSV is missing a row - find and amend it (try the bottom of the CSV)
 
 "data/indicator_17-6-2.csv 'utf-8' codec can't decode byte 0xe9 in position 9: unexpected end of data"
-Cause: 17.6.2 CSV has a forbidden character (á, é, í, ó, ú, ü, ñ, etc.) - replace it
+Cause: 17.6.2 CSV has a forbidden character (Ã¡, Ã©, Ã­, Ã³, Ãº, Ã¼, Ã±, etc.) - replace it
 
 
 If you have any questions you can contact Chris (ONS UK) at christopher.norris@ons.gov.uk
