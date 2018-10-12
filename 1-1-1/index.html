@@ -43,7 +43,7 @@
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css">
-        <link rel="stylesheet" href="/sdg-indicators/assets/css/default.css?v=20181012131029">
+        <link rel="stylesheet" href="/sdg-indicators/assets/css/default.css?v=20181012142854">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
     </head>
 <body>
@@ -105,6 +105,8 @@
   </div>
 
 </header>
+
+
 
 
 
@@ -210,7 +212,7 @@
   </div>
   
   <div class="row" id="indicatorData" data-indicatordata='[{"Year":"2013","Location":null,"Sex":null,"Value":"13.6"},{"Year":"2013","Location":null,"Sex":"Male","Value":"9.7"},{"Year":"2013","Location":null,"Sex":"Female","Value":"6.9"},{"Year":"2013","Location":"Urban","Sex":null,"Value":"3.9"},{"Year":"2013","Location":"Rural","Sex":null,"Value":"23.4"},{"Year":"2013","Location":"Western","Sex":null,"Value":"9.0"},{"Year":"2013","Location":"Central","Sex":null,"Value":"10.1"},{"Year":"2013","Location":"Greater Accra","Sex":null,"Value":"2.9"},{"Year":"2013","Location":"Volta","Sex":null,"Value":"17.2"},{"Year":"2013","Location":"Eastern","Sex":null,"Value":"9.6"},{"Year":"2013","Location":"Ashanti","Sex":null,"Value":"5.5"},{"Year":"2013","Location":"Brong Ahafo","Sex":null,"Value":"13.3"},{"Year":"2013","Location":"Northern","Sex":null,"Value":"36.0"},{"Year":"2013","Location":"Upper East","Sex":null,"Value":"31.0"},{"Year":"2013","Location":"Upper West","Sex":null,"Value":"57.6"}]' data-indicatorid='indicator_1-1-1' data-country=""
-  data-edgesdata='[]' data-charttitle="Proportion of population below the international poverty line" data-measurementunit="" data-datasource="" data-geographicalarea="" data-footnote="" data-showdata="true" data-graphtype="line">
+  data-edgesdata='[]' data-charttitle="Proportion of population below the international poverty line" data-measurementunit="" data-datasource="" data-geographicalarea="" data-footnote="" data-showdata="true" data-graphtype="line" data-geocoderegex="" data-showmap="">
     
     <div class="col-md-3">
       <div id="toolbar">
@@ -290,6 +292,9 @@
           <li role="presentation" class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#tableview" aria-controls="tableview" role="tab">Table</a>
           </li>
+          <li role="presentation" class="nav-item map" style="display:none">
+            <a class="nav-link" data-toggle="tab" href="#mapview" aria-controls="mapview" role="tab">Map</a>
+          </li>
         </ul>
         
         <!-- Tab panes -->
@@ -318,8 +323,16 @@
           <div role="tabpanel" class="tab-pane" id="tableview">
             <div id="selectionsTable"></div>
           </div>
+          <div role="tabpanel" class="tab-pane" id="mapview" class="map">
+                
+                <div id="map">
+                  <img src="/sdg-indicators/assets/img/loading.gif" alt="Loading map" />
+                </div>
+                
+          </div>
         </div>
-        
+      </div> 
+      
         
         <div class="alert alert-warning" role="alert">
           <i class="fa fa-info" aria-hidden="true"></i> See metadata tab for definitions and methodology information
@@ -1131,7 +1144,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.bundle.min.js"></script>
 <script type="text/javascript"> window.loop11_key = "0104054b3b56d396b42e668dfe096cee161454a8"; </script>
 <script src="//cdn.loop11.com/my/loop11.js" type="text/javascript" async="async"></script>
-<script src='/sdg-indicators/assets/js/sdg.js?v=20181012131029'></script>
+<script src='/sdg-indicators/assets/js/sdg.js?v=20181012142854'></script>
 <script src="/sdg-indicators/assets/js/lib/classList.js"></script>
 <script src="/sdg-indicators/assets/js/lib/modernizr-custom.js"></script>
 <script src="//cdn.jsdelivr.net/bluebird/3.5.0/bluebird.min.js"></script>
