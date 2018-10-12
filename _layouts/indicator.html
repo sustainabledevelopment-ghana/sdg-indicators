@@ -9,6 +9,12 @@
 {%   assign show_data = true %}
 {% endif %}
 
+{% if page.embedded_map_html %}
+  {% assign show_embedded_map = true %}
+{% else %}
+  {% assign show_embedded_map = false %}
+{% endif %}
+
 {% include components/fields-template.html %}
 {% include components/units-template.html %}
 
@@ -64,7 +70,7 @@
   </div>
   
   <div class="row" id="indicatorData" data-indicatordata='{{json_data}}' data-indicatorid='{{dataset_name}}' data-country="{{ page.national_geographical_coverage }}"
-  data-edgesdata='{{ json_edges_data }}' data-charttitle="{{ page.graph_title }}" data-measurementunit="{{ page.computation_units }}" data-datasource="{{ page.source_organisation_1 }}" data-geographicalarea="{{ page.national_geographical_coverage }}" data-footnote="{{ page.data_footnote }}" data-showdata="{{ show_data }}" data-graphtype="{{ page.graph_type }}">
+  data-edgesdata='{{ json_edges_data }}' data-charttitle="{{ page.graph_title }}" data-measurementunit="{{ page.computation_units }}" data-datasource="{{ page.source_organisation_1 }}" data-geographicalarea="{{ page.national_geographical_coverage }}" data-footnote="{{ page.data_footnote }}" data-showdata="{{ show_data }}" data-graphtype="{{ page.graph_type }}" data-geocoderegex="{{ page.data_geocode_regex }}" data-showmap="{{ page.data_show_map }}">
     {% if show_data %}
     <div class="col-md-3">
       <div id="toolbar">
@@ -96,6 +102,9 @@
           <li role="presentation" class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#tableview" aria-controls="tableview" role="tab">Table</a>
           </li>
+          <li role="presentation" class="nav-item map" style="display:none">
+            <a class="nav-link" data-toggle="tab" href="#mapview" aria-controls="mapview" role="tab">Map</a>
+          </li>
         </ul>
         
         <!-- Tab panes -->
@@ -106,8 +115,20 @@
           <div role="tabpanel" class="tab-pane" id="tableview">
             <div id="selectionsTable"></div>
           </div>
+          <div role="tabpanel" class="tab-pane" id="mapview" class="map">
+              {% if show_embedded_map %}
+                <div>
+                    {{ page.embedded_map_html }}
+                </div>
+              {% else %}  
+                <div id="map">
+                  <img src="{{ site.baseurl }}/assets/img/loading.gif" alt="Loading map" />
+                </div>
+              {% endif %}  
+          </div>
         </div>
-        {% endif %}
+      </div> 
+      {% endif %}
         
         <div class="alert alert-warning" role="alert">
           <i class="fa fa-info" aria-hidden="true"></i> See metadata tab for definitions and methodology information
