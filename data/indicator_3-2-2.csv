@@ -1,4 +1,4 @@
-Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,?Previous birth interval,Value,,
+Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,Previous birth interval,Value,
 2014,,,,,,,,,29,,
 2014,Urban,,,,,,,,33,,
 2014,Rural,,,,,,,,29,,
@@ -166,4 +166,3 @@ Year,Location,Sex,Geography,Age,Mother's education,Wealth quintile,Birth order,?
 1993,,,,,,,,< 2 years,80.7,,
 1993,,,,,,,,2-3 years,37.1,,
 1993,,,,,,,,4 or more years,30.5,,
-,,,,,,,,,,,
