@@ -1,7 +1,51 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Cargo,Value
+2008,Freight (inland waters),Total cargo traffic (metric tonnes),81789.9
+2009,Freight (inland waters),Total cargo traffic (metric tonnes),83114.9
+2010,Freight (inland waters),Total cargo traffic (metric tonnes),101495
+2011,Freight (inland waters),Total cargo traffic (metric tonnes),140655
+2012,Freight (inland waters),Total cargo traffic (metric tonnes),137163
+2013,Freight (inland waters),Total cargo traffic (metric tonnes),83816
+2014,Freight (inland waters),Total cargo traffic (metric tonnes),60358
+2015,Freight (inland waters),Total cargo traffic (metric tonnes),54824.2
+2016,Freight (inland waters),Total cargo traffic (metric tonnes),44476.1
+2017,Freight (inland waters),Total cargo traffic (metric tonnes),59739
+2008,Freight (inland waters),Number of people,466571
+2009,Freight (inland waters),Number of people,544478
+2010,Freight (inland waters),Number of people,507802
+2011,Freight (inland waters),Number of people,587111
+2012,Freight (inland waters),Number of people,653863
+2013,Freight (inland waters),Number of people,685683
+2014,Freight (inland waters),Number of people,566247
+2015,Freight (inland waters),Number of people,555930
+2016,Freight (inland waters),Number of people,496852
+2017,Freight (inland waters),Number of people,798370
+2008,Freight (inland waters),Number of vehicles,41650
+2009,Freight (inland waters),Number of vehicles,49638
+2010,Freight (inland waters),Number of vehicles,50872
+2011,Freight (inland waters),Number of vehicles,51255
+2012,Freight (inland waters),Number of vehicles,58342
+2013,Freight (inland waters),Number of vehicles,57744
+2014,Freight (inland waters),Number of vehicles,44514
+2015,Freight (inland waters),Number of vehicles,48403
+2016,Freight (inland waters),Number of vehicles,61911
+2017,Freight (inland waters),Number of vehicles,91903
+2008,Freight (marine waters),Number of containers,607381
+2009,Freight (marine waters),Number of containers,573522
+2010,Freight (marine waters),Number of containers,643192
+2011,Freight (marine waters),Number of containers,813494
+2012,Freight (marine waters),Number of containers,882877
+2013,Freight (marine waters),Number of containers,894362
+2014,Freight (marine waters),Number of containers,793737
+2015,Freight (marine waters),Number of containers,840595
+2016,Freight (marine waters),Number of containers,942463
+2017,Freight (marine waters),Number of containers,1009755
+2008,Freight (marine waters),Total cargo traffic (metric tonnes),12743862
+2009,Freight (marine waters),Total cargo traffic (metric tonnes),10778470
+2010,Freight (marine waters),Total cargo traffic (metric tonnes),12709110
+2011,Freight (marine waters),Total cargo traffic (metric tonnes),15697476
+2012,Freight (marine waters),Total cargo traffic (metric tonnes),16761702
+2013,Freight (marine waters),Total cargo traffic (metric tonnes),17632640
+2014,Freight (marine waters),Total cargo traffic (metric tonnes),15876268
+2015,Freight (marine waters),Total cargo traffic (metric tonnes),16844662
+2016,Freight (marine waters),Total cargo traffic (metric tonnes),19459834
+2017,Freight (marine waters),Total cargo traffic (metric tonnes),22086626
