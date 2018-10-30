@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Location,Sex,Geography,Value
+2017,Percent,,,,29.9
+2017,Percent,Urban,,,33.7
+2017,Percent,Rural,,,26.1
+2017,Percent,,Male,,30.3
+2017,Percent,,Female,,29.6
+2017,Percent,,,Western,24.5
+2017,Percent,,,Central,33.6
+2017,Percent,,,Greater Accra,36.9
+2017,Percent,,,Volta,23.7
+2017,Percent,,,Eastern,24.7
+2017,Percent,,,Ashanti,41.9
+2017,Percent,,,Brong Ahafo,16.7
+2017,Percent,,,Northern,25.6
+2017,Percent,,,Upper East,27.2
+2017,Percent,,,Upper West,19.4
+2013,Percent,,,,31.6
+2013,Percent,Urban,,,38.2
+2013,Percent,Rural,,,25.1
+2013,Percent,,Male,,32
+2013,Percent,,Female,,31.3
+2013,Percent,,,Western,31.5
+2013,Percent,,,Central,31
+2013,Percent,,,Greater Accra,46.9
+2013,Percent,,,Volta,41.9
+2013,Percent,,,Eastern,30.4
+2013,Percent,,,Ashanti,28.9
+2013,Percent,,,Brong Ahafo,22.6
+2013,Percent,,,Northern,17.8
+2013,Percent,,,Upper East,33.6
+2013,Percent,,,Upper West,17
