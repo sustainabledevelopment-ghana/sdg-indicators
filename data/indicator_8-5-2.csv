@@ -10,383 +10,383 @@ Year,Location,Sex,Age,Geography,Highest Education Level,Disability,Value
 2017,,,,Northern,,,14.69768053
 2017,,,,Upper East,,,24.80096592
 2017,,,,Upper West,,,23.2373338
-2017,Urban,,,,,,16.67289821
-2017,Urban,,,Western,,,19.66879158
-2017,Urban,,,Central,,,13.48155793
-2017,Urban,,,Greater Accra,,,17.52305555
-2017,Urban,,,Volta,,,9.849896988
-2017,Urban,,,Eastern,,,17.04813333
-2017,Urban,,,Ashanti,,,17.45469622
-2017,Urban,,,Brong Ahafo,,,11.288249
-2017,Urban,,,Northern,,,20.73688708
-2017,Urban,,,Upper East,,,20.01416482
-2017,Urban,,,Upper West,,,24.87376134
-2017,Rural,,,,,,11.34924833
-2017,Rural,,,Western,,,7.602677166
-2017,Rural,,,Central,,,10.03371555
-2017,Rural,,,Greater Accra,,,12.26600722
-2017,Rural,,,Volta,,,8.129778109
-2017,Rural,,,Eastern,,,9.603021612
-2017,Rural,,,Ashanti,,,12.23998225
-2017,Rural,,,Brong Ahafo,,,7.158104454
-2017,Rural,,,Northern,,,11.98770466
-2017,Rural,,,Upper East,,,26.12697135
-2017,Rural,,,Upper West,,,22.90058726
-2017,,Male,,,,,11.41793067
-2017,,Male,,Western,,,10.10085991
-2017,,Male,,Central,,,8.868549533
-2017,,Male,,Greater Accra,,,15.08580719
-2017,,Male,,Volta,,,6.505005952
-2017,,Male,,Eastern,,,10.03750423
-2017,,Male,,Ashanti,,,11.05247344
-2017,,Male,,Brong Ahafo,,,6.141928781
-2017,,Male,,Northern,,,12.63091847
-2017,,Male,,Upper East,,,25.68356777
-2017,,Male,,Upper West,,,19.7123174
-2017,,Female,,,,,16.47708345
-2017,,Female,,Western,,,15.07688392
-2017,,Female,,Central,,,13.83711275
-2017,,Female,,Greater Accra,,,18.76326743
-2017,,Female,,Volta,,,10.54762479
-2017,,Female,,Eastern,,,15.17957771
-2017,,Female,,Ashanti,,,19.39588575
-2017,,Female,,Brong Ahafo,,,11.61435385
-2017,,Female,,Northern,,,16.53116487
-2017,,Female,,Upper East,,,24.07417384
-2017,,Female,,Upper West,,,26.65495993
-2017,Urban,Male,,,,,13.78852806
-2017,Urban,Male,,Western,,,16.41707889
-2017,Urban,Male,,Central,,,10.5893202
-2017,Urban,Male,,Greater Accra,,,15.49235718
-2017,Urban,Male,,Volta,,,8.085741004
-2017,Urban,Male,,Eastern,,,14.09038485
-2017,Urban,Male,,Ashanti,,,13.74517873
-2017,Urban,Male,,Brong Ahafo,,,8.269491419
-2017,Urban,Male,,Northern,,,15.34795989
-2017,Urban,Male,,Upper East,,,17.17711375
-2017,Urban,Male,,Upper West,,,22.20196299
-2017,Urban,Female,,,,,19.14904885
-2017,Urban,Female,,Western,,,22.29794518
-2017,Urban,Female,,Central,,,15.66181703
-2017,Urban,Female,,Greater Accra,,,19.32876114
-2017,Urban,Female,,Volta,,,11.26930265
-2017,Urban,Female,,Eastern,,,19.53295491
-2017,Urban,Female,,Ashanti,,,20.81089618
-2017,Urban,Female,,Brong Ahafo,,,13.73250851
-2017,Urban,Female,,Northern,,,25.67523453
-2017,Urban,Female,,Upper East,,,22.22958878
-2017,Urban,Female,,Upper West,,,27.43020706
-2017,Rural,Male,,,,,8.949762445
-2017,Rural,Male,,Western,,,6.076557936
-2017,Rural,Male,,Central,,,7.386642398
-2017,Rural,Male,,Greater Accra,,,10.8778915
-2017,Rural,Male,,Volta,,,5.763502026
-2017,Rural,Male,,Eastern,,,7.325101708
-2017,Rural,Male,,Ashanti,,,6.607228763
-2017,Rural,Male,,Brong Ahafo,,,4.596179193
-2017,Rural,Male,,Northern,,,11.38095839
-2017,Rural,Male,,Upper East,,,27.95329974
-2017,Rural,Male,,Upper West,,,19.20306526
-2017,Rural,Female,,,,,13.53081389
-2017,Rural,Female,,Western,,,9.183255423
-2017,Rural,Female,,Central,,,12.16183259
-2017,Rural,Female,,Greater Accra,,,13.3973528
-2017,Rural,Female,,Volta,,,10.18259423
-2017,Rural,Female,,Eastern,,,11.81378775
-2017,Rural,Female,,Ashanti,,,17.1465847
-2017,Rural,Female,,Brong Ahafo,,,9.716431368
-2017,Rural,Female,,Northern,,,12.51831846
-2017,Rural,Female,,Upper East,,,24.60085139
-2017,Rural,Female,,Upper West,,,26.49360462
-2017,,,15-24,,,,26.40110156
-2017,,,25-44,,,,11.61480208
-2017,,,45-64,,,,8.354275812
-2017,,,65+,,,,16.68335448
-2017,Urban,,15-24,,,,34.82744101
-2017,Urban,,25-44,,,,13.41683668
-2017,Urban,,45-64,,,,9.812438933
-2017,Urban,,65+,,,,21.14661593
-2017,Rural,,15-24,,,,19.47255382
-2017,Rural,,25-44,,,,9.3630044
-2017,Rural,,45-64,,,,6.767997239
-2017,Rural,,65+,,,,13.48275502
-2017,,Male,15-24,,,,22.67247111
-2017,,Male,25-44,,,,8.06712148
-2017,,Male,45-64,,,,7.138088629
-2017,,Male,65+,,,,17.48404116
-2017,,Female,15-24,,,,29.88042183
-2017,,Female,25-44,,,,14.67129894
-2017,,Female,45-64,,,,9.447770345
-2017,,Female,65+,,,,16.02741982
-2017,Urban,Male,15-24,,,,33.5153239
-2017,Urban,Male,25-44,,,,9.482581579
-2017,Urban,Male,45-64,,,,7.737604522
-2017,Urban,Male,65+,,,,24.64004571
-2017,Urban,Female,15-24,,,,35.87331735
-2017,Urban,Female,25-44,,,,16.84906409
-2017,Urban,Female,45-64,,,,11.66982582
-2017,Urban,Female,65+,,,,18.50757967
-2017,Rural,Male,15-24,,,,14.99261279
-2017,Rural,Male,25-44,,,,6.271444689
-2017,Rural,Male,45-64,,,,6.489007292
-2017,Rural,Male,65+,,,,12.73033332
-2017,Rural,Female,15-24,,,,24.22788734
-2017,Rural,Female,25-44,,,,11.98521529
-2017,Rural,Female,45-64,,,,7.020026935
-2017,Rural,Female,65+,,,,14.13542696
-2017,,,,,,Sight only,20.17864764
-2017,,,,,,Hearing only,16.03885024
-2017,,,,,,Speech only,3.868597363
-2017,,,,,,Physical only,13.67741181
-2017,,,,,,Intellectual only,4.123211254
-2017,,,,,,Emotional only,24.56597222
-2017,Urban,,,,,Sight only,24.38432836
-2017,Urban,,,,,Hearing only,12.1899958
-2017,Urban,,,,,Physical only,13.92967975
-2017,Urban,,,,,Emotional only,29.52933591
-2017,Rural,,,,,Sight only,18.13694412
-2017,Rural,,,,,Hearing only,16.75091376
-2017,Rural,,,,,Speech only,5.700636943
-2017,Rural,,,,,Physical only,13.46531458
-2017,Rural,,,,,Intellectual only,9.758897819
-2017,Rural,,,,,Emotional only,14.34262948
-2017,,Male,,,,Sight only,24.17833499
-2017,,Male,,,,Hearing only,13.44715852
-2017,,Male,,,,Physical only,8.622094821
-2017,,Male,,,,Emotional only,8.011869436
-2017,,Female,,,,Sight only,15.8446676
-2017,,Female,,,,Hearing only,18.92154145
-2017,,Female,,,,Speech only,8.101380403
-2017,,Female,,,,Physical only,19.15314602
-2017,,Female,,,,Intellectual only,7.82328578
-2017,,Female,,,,Emotional only,47.85788924
-2017,Urban,Male,,,,Sight only,30.74680422
-2017,Urban,Male,,,,Physical only,5.747521632
-2017,Urban,Female,,,,Sight only,19.85305862
-2017,Urban,Female,,,,Physical only,24.27205563
-2017,Urban,Female,,,,Emotional only,61.22994652
-2017,Rural,Male,,,,Sight only,21.8556701
-2017,Rural,Male,,,,Hearing only,10.20170675
-2017,Rural,Male,,,,Physical only,11.38933319
-2017,Rural,Male,,,,Emotional only,19.85294118
-2017,Rural,Female,,,,Sight only,13.18623311
-2017,Rural,Female,,,,Hearing only,26.63414634
-2017,Rural,Female,,,,Speech only,13.91371939
-2017,Rural,Female,,,,Physical only,15.44237333
-2017,Rural,Female,,,,Intellectual only,22.1642764
-2013,,,,,,,5.2
-2013,,,,Western,,,5.6
-2013,,,,Central,,,4.6
-2013,,,,Greater Accra,,,7.2
-2013,,,,Volta,,,3.3
-2013,,,,Eastern,,,4.3
-2013,,,,Ashanti,,,4.6
-2013,,,,Brong Ahafo,,,2.9
-2013,,,,Northern,,,4.6
-2013,,,,Upper East,,,10.8
-2013,,,,Upper West,,,7.6
-2013,Urban,,,,,,6.5
-2013,Urban,,,Western,,,6.2
-2013,Urban,,,Central,,,7
-2013,Urban,,,Greater Accra,,,7.2
-2013,Urban,,,Volta,,,4.9
-2013,Urban,,,Eastern,,,6.7
-2013,Urban,,,Ashanti,,,6.8
-2013,Urban,,,Brong Ahafo,,,4.3
-2013,Urban,,,Northern,,,6
-2013,Urban,,,Upper East,,,8.3
-2013,Urban,,,Upper West,,,6.4
-2013,Rural,,,,,,3.9
-2013,Rural,,,Western,,,5.2
-2013,Rural,,,Central,,,2.9
-2013,Rural,,,Greater Accra,,,5.9
-2013,Rural,,,Volta,,,2.6
-2013,Rural,,,Eastern,,,2.3
-2013,Rural,,,Ashanti,,,2.3
-2013,Rural,,,Brong Ahafo,,,1.7
-2013,Rural,,,Northern,,,4
-2013,Rural,,,Upper East,,,11.4
-2013,Rural,,,Upper West,,,7.8
-2013,,Male,,,,,4.8
-2013,,Male,,Western,,,5.1
-2013,,Male,,Central,,,5.5
-2013,,Male,,Greater Accra,,,6.9
-2013,,Male,,Volta,,,2.9
-2013,,Male,,Eastern,,,2.5
-2013,,Male,,Ashanti,,,4.6
-2013,,Male,,Brong Ahafo,,,2.5
-2013,,Male,,Northern,,,3.2
-2013,,Male,,Upper East,,,10.5
-2013,,Male,,Upper West,,,8.8
-2013,,Female,,,,,5.5
-2013,,Female,,Western,,,6.2
-2013,,Female,,Central,,,3.9
-2013,,Female,,Greater Accra,,,7.4
-2013,,Female,,Volta,,,3.6
-2013,,Female,,Eastern,,,5.9
-2013,,Female,,Ashanti,,,4.7
-2013,,Female,,Brong Ahafo,,,3.4
-2013,,Female,,Northern,,,5.9
-2013,,Female,,Upper East,,,11
-2013,,Female,,Upper West,,,6.5
-2013,Urban,Male,,,,,6.1
-2013,Urban,Male,,Western,,,6.2
-2013,Urban,Male,,Central,,,7.1
-2013,Urban,Male,,Greater Accra,,,7
-2013,Urban,Male,,Volta,,,4.2
-2013,Urban,Male,,Eastern,,,4.6
-2013,Urban,Male,,Ashanti,,,7.4
-2013,Urban,Male,,Brong Ahafo,,,3.5
-2013,Urban,Male,,Northern,,,3.1
-2013,Urban,Male,,Upper East,,,6.4
-2013,Urban,Male,,Upper West,,,2.2
-2013,Urban,Female,,,,,6.9
-2013,Urban,Female,,Western,,,6.1
-2013,Urban,Female,,Central,,,6.9
-2013,Urban,Female,,Greater Accra,,,7.4
-2013,Urban,Female,,Volta,,,5.5
-2013,Urban,Female,,Eastern,,,8.4
-2013,Urban,Female,,Ashanti,,,6.2
-2013,Urban,Female,,Brong Ahafo,,,4.9
-2013,Urban,Female,,Northern,,,8.5
-2013,Urban,Female,,Upper East,,,10.1
-2013,Urban,Female,,Upper West,,,10.3
-2013,Rural,Male,,,,,3.6
-2013,Rural,Male,,Western,,,4.3
-2013,Rural,Male,,Central,,,4.5
-2013,Rural,Male,,Greater Accra,,,4.3
-2013,Rural,Male,,Volta,,,2.5
-2013,Rural,Male,,Eastern,,,1.1
-2013,Rural,Male,,Ashanti,,,1.6
-2013,Rural,Male,,Brong Ahafo,,,1.6
-2013,Rural,Male,,Northern,,,3.3
-2013,Rural,Male,,Upper East,,,11.5
-2013,Rural,Male,,Upper West,,,9.9
-2013,Rural,Female,,,,,4.1
-2013,Rural,Female,,Western,,,6.2
-2013,Rural,Female,,Central,,,1.5
-2013,Rural,Female,,Greater Accra,,,7.5
-2013,Rural,Female,,Volta,,,2.8
-2013,Rural,Female,,Eastern,,,3.6
-2013,Rural,Female,,Ashanti,,,2.9
-2013,Rural,Female,,Brong Ahafo,,,1.9
-2013,Rural,Female,,Northern,,,4.7
-2013,Rural,Female,,Upper East,,,11.3
-2013,Rural,Female,,Upper West,,,5.8
-2013,,,15-24,,,,10.9
-2013,,,25-44,,,,3.8
-2013,,,45-64,,,,3
-2013,,,65+,,,,2.5
-2013,Urban,,15-24,,,,16.3
-2013,Urban,,25-44,,,,4.6
-2013,Urban,,45-64,,,,3.5
-2013,Urban,,65+,,,,2.3
-2013,Rural,,15-24,,,,7.1
-2013,Rural,,25-44,,,,2.8
-2013,Rural,,45-64,,,,2.5
-2013,Rural,,65+,,,,2.7
-2013,,Male,15-24,,,,10.2
-2013,,Male,25-44,,,,3.3
-2013,,Male,45-64,,,,2.8
-2013,,Male,65+,,,,2.6
-2013,,Female,15-24,,,,11.7
-2013,,Female,25-44,,,,4.1
-2013,,Female,45-64,,,,3.2
-2013,,Female,65+,,,,2.5
-2013,Urban,Male,15-24,,,,15.8
-2013,Urban,Male,25-44,,,,4.1
-2013,Urban,Male,45-64,,,,3.2
-2013,Urban,Male,65+,,,,1.9
-2013,Urban,Female,15-24,,,,16.7
-2013,Urban,Female,25-44,,,,5
-2013,Urban,Female,45-64,,,,3.8
-2013,Urban,Female,65+,,,,2.5
-2013,Rural,Male,15-24,,,,6.6
-2013,Rural,Male,25-44,,,,2.3
-2013,Rural,Male,45-64,,,,2.3
-2013,Rural,Male,65+,,,,2.9
-2013,Rural,Female,15-24,,,,7.7
-2013,Rural,Female,25-44,,,,3.1
-2013,Rural,Female,45-64,,,,2.6
-2013,Rural,Female,65+,,,,2.5
-2013,,,,,Never been to school,,3.5
-2013,,,,,Less than MSLC/BECE,,4.5
-2013,,,,,MSLC/BECE,,4.7
-2013,,,,,Secondary,,11.7
-2013,,,,,Vocational/Tech/Comm.,,6.1
-2013,,,,,Teacher Training/Agric./Nursing/Certificate,,2.8
-2013,,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,9.1
-2013,,,,,Bachelor Degree,,5.9
-2013,,,,,Post Graduate,,2.7
-2013,Urban,,,,Never been to school,,3.4
-2013,Urban,,,,Less than MSLC/BECE,,6
-2013,Urban,,,,MSLC/BECE,,5.5
-2013,Urban,,,,Secondary,,13
-2013,Urban,,,,Vocational/Tech/Comm.,,6.5
-2013,Urban,,,,Teacher Training/Agric./Nursing/Certificate,,2.5
-2013,Urban,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,9.5
-2013,Urban,,,,Bachelor Degree,,6.4
-2013,Urban,,,,Post Graduate,,2.9
-2013,Rural,,,,Never been to school,,3.5
-2013,Rural,,,,Less than MSLC/BECE,,3.5
-2013,Rural,,,,MSLC/BECE,,3.7
-2013,Rural,,,,Secondary,,8.4
-2013,Rural,,,,Vocational/Tech/Comm.,,4.4
-2013,Rural,,,,Teacher Training/Agric./Nursing/Certificate,,3.4
-2013,Rural,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,7.7
-2013,Rural,,,,Bachelor Degree,,1.5
-2013,Rural,,,,Post Graduate,,0
-2013,,Male,,,Never been to school,,2.9
-2013,,Male,,,Less than MSLC/BECE,,4.2
-2013,,Male,,,MSLC/BECE,,3.3
-2013,,Male,,,Secondary,,10.8
-2013,,Male,,,Vocational/Tech/Comm.,,6.3
-2013,,Male,,,Teacher Training/Agric./Nursing/Certificate,,3.4
-2013,,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,10.6
-2013,,Male,,,Bachelor Degree,,5.9
-2013,,Male,,,Post Graduate,,3.1
-2013,,Female,,,Never been to school,,3.8
-2013,,Female,,,Less than MSLC/BECE,,4.7
-2013,,Female,,,MSLC/BECE,,6.3
-2013,,Female,,,Secondary,,13.3
-2013,,Female,,,Vocational/Tech/Comm.,,5.9
-2013,,Female,,,Teacher Training/Agric./Nursing/Certificate,,2.1
-2013,,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,6.5
-2013,,Female,,,Bachelor Degree,,5.9
-2013,,Female,,,Post Graduate,,0
-2013,Urban,Male,,,Never been to school,,1.4
-2013,Urban,Male,,,Less than MSLC/BECE,,5
-2013,Urban,Male,,,MSLC/BECE,,4.1
-2013,Urban,Male,,,Secondary,,12.2
-2013,Urban,Male,,,Vocational/Tech/Comm.,,7.2
-2013,Urban,Male,,,Teacher Training/Agric./Nursing/Certificate,,3.5
-2013,Urban,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,10.9
-2013,Urban,Male,,,Bachelor Degree,,6.4
-2013,Urban,Male,,,Post Graduate,,3.4
-2013,Urban,Female,,,Never been to school,,4.2
-2013,Urban,Female,,,Less than MSLC/BECE,,6.5
-2013,Urban,Female,,,MSLC/BECE,,7
-2013,Urban,Female,,,Secondary,,14.1
-2013,Urban,Female,,,Vocational/Tech/Comm.,,5.6
-2013,Urban,Female,,,Teacher Training/Agric./Nursing/Certificate,,1.7
-2013,Urban,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,7
-2013,Urban,Female,,,Bachelor Degree,,6.3
-2013,Urban,Female,,,Post Graduate,,0
-2013,Rural,Male,,,Never been to school,,3.4
-2013,Rural,Male,,,Less than MSLC/BECE,,3.7
-2013,Rural,Male,,,MSLC/BECE,,2.5
-2013,Rural,Male,,,Secondary,,7.7
-2013,Rural,Male,,,Vocational/Tech/Comm.,,2.5
-2013,Rural,Male,,,Teacher Training/Agric./Nursing/Certificate,,3.1
-2013,Rural,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,9.2
-2013,Rural,Male,,,Bachelor Degree,,1.2
-2013,Rural,Male,,,Post Graduate,,0
-2013,Rural,Female,,,Never been to school,,3.6
-2013,Rural,Female,,,Less than MSLC/BECE,,3.3
-2013,Rural,Female,,,MSLC/BECE,,5.2
-2013,Rural,Female,,,Secondary,,10.2
-2013,Rural,Female,,,Vocational/Tech/Comm.,,7.6
-2013,Rural,Female,,,Teacher Training/Agric./Nursing/Certificate,,4.2
-2013,Rural,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,3.4
-2013,Rural,Female,,,Bachelor Degree,,2.6
-2013,Rural,Female,,,Post Graduate,,0
+2017,Urban,,,,,,23.2373338
+2017,Urban,,,Western,,,23.2373338
+2017,Urban,,,Central,,,23.2373338
+2017,Urban,,,Greater Accra,,,23.2373338
+2017,Urban,,,Volta,,,23.2373338
+2017,Urban,,,Eastern,,,23.2373338
+2017,Urban,,,Ashanti,,,23.2373338
+2017,Urban,,,Brong Ahafo,,,23.2373338
+2017,Urban,,,Northern,,,23.2373338
+2017,Urban,,,Upper East,,,23.2373338
+2017,Urban,,,Upper West,,,23.2373338
+2017,Rural,,,,,,23.2373338
+2017,Rural,,,Western,,,23.2373338
+2017,Rural,,,Central,,,23.2373338
+2017,Rural,,,Greater Accra,,,23.2373338
+2017,Rural,,,Volta,,,23.2373338
+2017,Rural,,,Eastern,,,23.2373338
+2017,Rural,,,Ashanti,,,23.2373338
+2017,Rural,,,Brong Ahafo,,,23.2373338
+2017,Rural,,,Northern,,,23.2373338
+2017,Rural,,,Upper East,,,23.2373338
+2017,Rural,,,Upper West,,,23.2373338
+2017,,Male,,,,,23.2373338
+2017,,Male,,Western,,,23.2373338
+2017,,Male,,Central,,,23.2373338
+2017,,Male,,Greater Accra,,,23.2373338
+2017,,Male,,Volta,,,23.2373338
+2017,,Male,,Eastern,,,23.2373338
+2017,,Male,,Ashanti,,,23.2373338
+2017,,Male,,Brong Ahafo,,,23.2373338
+2017,,Male,,Northern,,,23.2373338
+2017,,Male,,Upper East,,,23.2373338
+2017,,Male,,Upper West,,,23.2373338
+2017,,Female,,,,,23.2373338
+2017,,Female,,Western,,,23.2373338
+2017,,Female,,Central,,,23.2373338
+2017,,Female,,Greater Accra,,,23.2373338
+2017,,Female,,Volta,,,23.2373338
+2017,,Female,,Eastern,,,23.2373338
+2017,,Female,,Ashanti,,,23.2373338
+2017,,Female,,Brong Ahafo,,,23.2373338
+2017,,Female,,Northern,,,23.2373338
+2017,,Female,,Upper East,,,23.2373338
+2017,,Female,,Upper West,,,23.2373338
+2017,Urban,Male,,,,,23.2373338
+2017,Urban,Male,,Western,,,23.2373338
+2017,Urban,Male,,Central,,,23.2373338
+2017,Urban,Male,,Greater Accra,,,23.2373338
+2017,Urban,Male,,Volta,,,23.2373338
+2017,Urban,Male,,Eastern,,,23.2373338
+2017,Urban,Male,,Ashanti,,,23.2373338
+2017,Urban,Male,,Brong Ahafo,,,23.2373338
+2017,Urban,Male,,Northern,,,23.2373338
+2017,Urban,Male,,Upper East,,,23.2373338
+2017,Urban,Male,,Upper West,,,23.2373338
+2017,Urban,Female,,,,,23.2373338
+2017,Urban,Female,,Western,,,23.2373338
+2017,Urban,Female,,Central,,,23.2373338
+2017,Urban,Female,,Greater Accra,,,23.2373338
+2017,Urban,Female,,Volta,,,23.2373338
+2017,Urban,Female,,Eastern,,,23.2373338
+2017,Urban,Female,,Ashanti,,,23.2373338
+2017,Urban,Female,,Brong Ahafo,,,23.2373338
+2017,Urban,Female,,Northern,,,23.2373338
+2017,Urban,Female,,Upper East,,,23.2373338
+2017,Urban,Female,,Upper West,,,23.2373338
+2017,Rural,Male,,,,,23.2373338
+2017,Rural,Male,,Western,,,23.2373338
+2017,Rural,Male,,Central,,,23.2373338
+2017,Rural,Male,,Greater Accra,,,23.2373338
+2017,Rural,Male,,Volta,,,23.2373338
+2017,Rural,Male,,Eastern,,,23.2373338
+2017,Rural,Male,,Ashanti,,,23.2373338
+2017,Rural,Male,,Brong Ahafo,,,23.2373338
+2017,Rural,Male,,Northern,,,23.2373338
+2017,Rural,Male,,Upper East,,,23.2373338
+2017,Rural,Male,,Upper West,,,23.2373338
+2017,Rural,Female,,,,,23.2373338
+2017,Rural,Female,,Western,,,23.2373338
+2017,Rural,Female,,Central,,,23.2373338
+2017,Rural,Female,,Greater Accra,,,23.2373338
+2017,Rural,Female,,Volta,,,23.2373338
+2017,Rural,Female,,Eastern,,,23.2373338
+2017,Rural,Female,,Ashanti,,,23.2373338
+2017,Rural,Female,,Brong Ahafo,,,23.2373338
+2017,Rural,Female,,Northern,,,23.2373338
+2017,Rural,Female,,Upper East,,,23.2373338
+2017,Rural,Female,,Upper West,,,23.2373338
+2017,,,15-24,,,,23.2373338
+2017,,,25-44,,,,23.2373338
+2017,,,45-64,,,,23.2373338
+2017,,,65+,,,,23.2373338
+2017,Urban,,15-24,,,,23.2373338
+2017,Urban,,25-44,,,,23.2373338
+2017,Urban,,45-64,,,,23.2373338
+2017,Urban,,65+,,,,23.2373338
+2017,Rural,,15-24,,,,23.2373338
+2017,Rural,,25-44,,,,23.2373338
+2017,Rural,,45-64,,,,23.2373338
+2017,Rural,,65+,,,,23.2373338
+2017,,Male,15-24,,,,23.2373338
+2017,,Male,25-44,,,,23.2373338
+2017,,Male,45-64,,,,23.2373338
+2017,,Male,65+,,,,23.2373338
+2017,,Female,15-24,,,,23.2373338
+2017,,Female,25-44,,,,23.2373338
+2017,,Female,45-64,,,,23.2373338
+2017,,Female,65+,,,,23.2373338
+2017,Urban,Male,15-24,,,,23.2373338
+2017,Urban,Male,25-44,,,,23.2373338
+2017,Urban,Male,45-64,,,,23.2373338
+2017,Urban,Male,65+,,,,23.2373338
+2017,Urban,Female,15-24,,,,23.2373338
+2017,Urban,Female,25-44,,,,23.2373338
+2017,Urban,Female,45-64,,,,23.2373338
+2017,Urban,Female,65+,,,,23.2373338
+2017,Rural,Male,15-24,,,,23.2373338
+2017,Rural,Male,25-44,,,,23.2373338
+2017,Rural,Male,45-64,,,,23.2373338
+2017,Rural,Male,65+,,,,23.2373338
+2017,Rural,Female,15-24,,,,23.2373338
+2017,Rural,Female,25-44,,,,23.2373338
+2017,Rural,Female,45-64,,,,23.2373338
+2017,Rural,Female,65+,,,,23.2373338
+2017,,,,,,Sight only,23.2373338
+2017,,,,,,Hearing only,23.2373338
+2017,,,,,,Speech only,23.2373338
+2017,,,,,,Physical only,23.2373338
+2017,,,,,,Intellectual only,23.2373338
+2017,,,,,,Emotional only,23.2373338
+2017,Urban,,,,,Sight only,23.2373338
+2017,Urban,,,,,Hearing only,23.2373338
+2017,Urban,,,,,Physical only,23.2373338
+2017,Urban,,,,,Emotional only,23.2373338
+2017,Rural,,,,,Sight only,23.2373338
+2017,Rural,,,,,Hearing only,23.2373338
+2017,Rural,,,,,Speech only,23.2373338
+2017,Rural,,,,,Physical only,23.2373338
+2017,Rural,,,,,Intellectual only,23.2373338
+2017,Rural,,,,,Emotional only,23.2373338
+2017,,Male,,,,Sight only,23.2373338
+2017,,Male,,,,Hearing only,23.2373338
+2017,,Male,,,,Physical only,23.2373338
+2017,,Male,,,,Emotional only,23.2373338
+2017,,Female,,,,Sight only,23.2373338
+2017,,Female,,,,Hearing only,23.2373338
+2017,,Female,,,,Speech only,23.2373338
+2017,,Female,,,,Physical only,23.2373338
+2017,,Female,,,,Intellectual only,23.2373338
+2017,,Female,,,,Emotional only,23.2373338
+2017,Urban,Male,,,,Sight only,23.2373338
+2017,Urban,Male,,,,Physical only,23.2373338
+2017,Urban,Female,,,,Sight only,23.2373338
+2017,Urban,Female,,,,Physical only,23.2373338
+2017,Urban,Female,,,,Emotional only,23.2373338
+2017,Rural,Male,,,,Sight only,23.2373338
+2017,Rural,Male,,,,Hearing only,23.2373338
+2017,Rural,Male,,,,Physical only,23.2373338
+2017,Rural,Male,,,,Emotional only,23.2373338
+2017,Rural,Female,,,,Sight only,23.2373338
+2017,Rural,Female,,,,Hearing only,23.2373338
+2017,Rural,Female,,,,Speech only,23.2373338
+2017,Rural,Female,,,,Physical only,23.2373338
+2017,Rural,Female,,,,Intellectual only,23.2373338
+2013,,,,,,,23.2373338
+2013,,,,Western,,,23.2373338
+2013,,,,Central,,,23.2373338
+2013,,,,Greater Accra,,,23.2373338
+2013,,,,Volta,,,23.2373338
+2013,,,,Eastern,,,23.2373338
+2013,,,,Ashanti,,,23.2373338
+2013,,,,Brong Ahafo,,,23.2373338
+2013,,,,Northern,,,23.2373338
+2013,,,,Upper East,,,23.2373338
+2013,,,,Upper West,,,23.2373338
+2013,Urban,,,,,,23.2373338
+2013,Urban,,,Western,,,23.2373338
+2013,Urban,,,Central,,,23.2373338
+2013,Urban,,,Greater Accra,,,23.2373338
+2013,Urban,,,Volta,,,23.2373338
+2013,Urban,,,Eastern,,,23.2373338
+2013,Urban,,,Ashanti,,,23.2373338
+2013,Urban,,,Brong Ahafo,,,23.2373338
+2013,Urban,,,Northern,,,23.2373338
+2013,Urban,,,Upper East,,,23.2373338
+2013,Urban,,,Upper West,,,23.2373338
+2013,Rural,,,,,,23.2373338
+2013,Rural,,,Western,,,23.2373338
+2013,Rural,,,Central,,,23.2373338
+2013,Rural,,,Greater Accra,,,23.2373338
+2013,Rural,,,Volta,,,23.2373338
+2013,Rural,,,Eastern,,,23.2373338
+2013,Rural,,,Ashanti,,,23.2373338
+2013,Rural,,,Brong Ahafo,,,23.2373338
+2013,Rural,,,Northern,,,23.2373338
+2013,Rural,,,Upper East,,,23.2373338
+2013,Rural,,,Upper West,,,23.2373338
+2013,,Male,,,,,23.2373338
+2013,,Male,,Western,,,23.2373338
+2013,,Male,,Central,,,23.2373338
+2013,,Male,,Greater Accra,,,23.2373338
+2013,,Male,,Volta,,,23.2373338
+2013,,Male,,Eastern,,,23.2373338
+2013,,Male,,Ashanti,,,23.2373338
+2013,,Male,,Brong Ahafo,,,23.2373338
+2013,,Male,,Northern,,,23.2373338
+2013,,Male,,Upper East,,,23.2373338
+2013,,Male,,Upper West,,,23.2373338
+2013,,Female,,,,,23.2373338
+2013,,Female,,Western,,,23.2373338
+2013,,Female,,Central,,,23.2373338
+2013,,Female,,Greater Accra,,,23.2373338
+2013,,Female,,Volta,,,23.2373338
+2013,,Female,,Eastern,,,23.2373338
+2013,,Female,,Ashanti,,,23.2373338
+2013,,Female,,Brong Ahafo,,,23.2373338
+2013,,Female,,Northern,,,23.2373338
+2013,,Female,,Upper East,,,23.2373338
+2013,,Female,,Upper West,,,23.2373338
+2013,Urban,Male,,,,,23.2373338
+2013,Urban,Male,,Western,,,23.2373338
+2013,Urban,Male,,Central,,,23.2373338
+2013,Urban,Male,,Greater Accra,,,23.2373338
+2013,Urban,Male,,Volta,,,23.2373338
+2013,Urban,Male,,Eastern,,,23.2373338
+2013,Urban,Male,,Ashanti,,,23.2373338
+2013,Urban,Male,,Brong Ahafo,,,23.2373338
+2013,Urban,Male,,Northern,,,23.2373338
+2013,Urban,Male,,Upper East,,,23.2373338
+2013,Urban,Male,,Upper West,,,23.2373338
+2013,Urban,Female,,,,,23.2373338
+2013,Urban,Female,,Western,,,23.2373338
+2013,Urban,Female,,Central,,,23.2373338
+2013,Urban,Female,,Greater Accra,,,23.2373338
+2013,Urban,Female,,Volta,,,23.2373338
+2013,Urban,Female,,Eastern,,,23.2373338
+2013,Urban,Female,,Ashanti,,,23.2373338
+2013,Urban,Female,,Brong Ahafo,,,23.2373338
+2013,Urban,Female,,Northern,,,23.2373338
+2013,Urban,Female,,Upper East,,,23.2373338
+2013,Urban,Female,,Upper West,,,23.2373338
+2013,Rural,Male,,,,,23.2373338
+2013,Rural,Male,,Western,,,23.2373338
+2013,Rural,Male,,Central,,,23.2373338
+2013,Rural,Male,,Greater Accra,,,23.2373338
+2013,Rural,Male,,Volta,,,23.2373338
+2013,Rural,Male,,Eastern,,,23.2373338
+2013,Rural,Male,,Ashanti,,,23.2373338
+2013,Rural,Male,,Brong Ahafo,,,23.2373338
+2013,Rural,Male,,Northern,,,23.2373338
+2013,Rural,Male,,Upper East,,,23.2373338
+2013,Rural,Male,,Upper West,,,23.2373338
+2013,Rural,Female,,,,,23.2373338
+2013,Rural,Female,,Western,,,23.2373338
+2013,Rural,Female,,Central,,,23.2373338
+2013,Rural,Female,,Greater Accra,,,23.2373338
+2013,Rural,Female,,Volta,,,23.2373338
+2013,Rural,Female,,Eastern,,,23.2373338
+2013,Rural,Female,,Ashanti,,,23.2373338
+2013,Rural,Female,,Brong Ahafo,,,23.2373338
+2013,Rural,Female,,Northern,,,23.2373338
+2013,Rural,Female,,Upper East,,,23.2373338
+2013,Rural,Female,,Upper West,,,23.2373338
+2013,,,15-24,,,,23.2373338
+2013,,,25-44,,,,23.2373338
+2013,,,45-64,,,,23.2373338
+2013,,,65+,,,,23.2373338
+2013,Urban,,15-24,,,,23.2373338
+2013,Urban,,25-44,,,,23.2373338
+2013,Urban,,45-64,,,,23.2373338
+2013,Urban,,65+,,,,23.2373338
+2013,Rural,,15-24,,,,23.2373338
+2013,Rural,,25-44,,,,23.2373338
+2013,Rural,,45-64,,,,23.2373338
+2013,Rural,,65+,,,,23.2373338
+2013,,Male,15-24,,,,23.2373338
+2013,,Male,25-44,,,,23.2373338
+2013,,Male,45-64,,,,23.2373338
+2013,,Male,65+,,,,23.2373338
+2013,,Female,15-24,,,,23.2373338
+2013,,Female,25-44,,,,23.2373338
+2013,,Female,45-64,,,,23.2373338
+2013,,Female,65+,,,,23.2373338
+2013,Urban,Male,15-24,,,,23.2373338
+2013,Urban,Male,25-44,,,,23.2373338
+2013,Urban,Male,45-64,,,,23.2373338
+2013,Urban,Male,65+,,,,23.2373338
+2013,Urban,Female,15-24,,,,23.2373338
+2013,Urban,Female,25-44,,,,23.2373338
+2013,Urban,Female,45-64,,,,23.2373338
+2013,Urban,Female,65+,,,,23.2373338
+2013,Rural,Male,15-24,,,,23.2373338
+2013,Rural,Male,25-44,,,,23.2373338
+2013,Rural,Male,45-64,,,,23.2373338
+2013,Rural,Male,65+,,,,23.2373338
+2013,Rural,Female,15-24,,,,23.2373338
+2013,Rural,Female,25-44,,,,23.2373338
+2013,Rural,Female,45-64,,,,23.2373338
+2013,Rural,Female,65+,,,,23.2373338
+2013,,,,,Never been to school,,23.2373338
+2013,,,,,Less than MSLC/BECE,,23.2373338
+2013,,,,,MSLC/BECE,,23.2373338
+2013,,,,,Secondary,,23.2373338
+2013,,,,,Vocational/Tech/Comm.,,23.2373338
+2013,,,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,,,,,Bachelor Degree,,23.2373338
+2013,,,,,Post Graduate,,23.2373338
+2013,Urban,,,,Never been to school,,23.2373338
+2013,Urban,,,,Less than MSLC/BECE,,23.2373338
+2013,Urban,,,,MSLC/BECE,,23.2373338
+2013,Urban,,,,Secondary,,23.2373338
+2013,Urban,,,,Vocational/Tech/Comm.,,23.2373338
+2013,Urban,,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,Urban,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,Urban,,,,Bachelor Degree,,23.2373338
+2013,Urban,,,,Post Graduate,,23.2373338
+2013,Rural,,,,Never been to school,,23.2373338
+2013,Rural,,,,Less than MSLC/BECE,,23.2373338
+2013,Rural,,,,MSLC/BECE,,23.2373338
+2013,Rural,,,,Secondary,,23.2373338
+2013,Rural,,,,Vocational/Tech/Comm.,,23.2373338
+2013,Rural,,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,Rural,,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,Rural,,,,Bachelor Degree,,23.2373338
+2013,Rural,,,,Post Graduate,,23.2373338
+2013,,Male,,,Never been to school,,23.2373338
+2013,,Male,,,Less than MSLC/BECE,,23.2373338
+2013,,Male,,,MSLC/BECE,,23.2373338
+2013,,Male,,,Secondary,,23.2373338
+2013,,Male,,,Vocational/Tech/Comm.,,23.2373338
+2013,,Male,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,,Male,,,Bachelor Degree,,23.2373338
+2013,,Male,,,Post Graduate,,23.2373338
+2013,,Female,,,Never been to school,,23.2373338
+2013,,Female,,,Less than MSLC/BECE,,23.2373338
+2013,,Female,,,MSLC/BECE,,23.2373338
+2013,,Female,,,Secondary,,23.2373338
+2013,,Female,,,Vocational/Tech/Comm.,,23.2373338
+2013,,Female,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,,Female,,,Bachelor Degree,,23.2373338
+2013,,Female,,,Post Graduate,,23.2373338
+2013,Urban,Male,,,Never been to school,,23.2373338
+2013,Urban,Male,,,Less than MSLC/BECE,,23.2373338
+2013,Urban,Male,,,MSLC/BECE,,23.2373338
+2013,Urban,Male,,,Secondary,,23.2373338
+2013,Urban,Male,,,Vocational/Tech/Comm.,,23.2373338
+2013,Urban,Male,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,Urban,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,Urban,Male,,,Bachelor Degree,,23.2373338
+2013,Urban,Male,,,Post Graduate,,23.2373338
+2013,Urban,Female,,,Never been to school,,23.2373338
+2013,Urban,Female,,,Less than MSLC/BECE,,23.2373338
+2013,Urban,Female,,,MSLC/BECE,,23.2373338
+2013,Urban,Female,,,Secondary,,23.2373338
+2013,Urban,Female,,,Vocational/Tech/Comm.,,23.2373338
+2013,Urban,Female,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,Urban,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,Urban,Female,,,Bachelor Degree,,23.2373338
+2013,Urban,Female,,,Post Graduate,,23.2373338
+2013,Rural,Male,,,Never been to school,,23.2373338
+2013,Rural,Male,,,Less than MSLC/BECE,,23.2373338
+2013,Rural,Male,,,MSLC/BECE,,23.2373338
+2013,Rural,Male,,,Secondary,,23.2373338
+2013,Rural,Male,,,Vocational/Tech/Comm.,,23.2373338
+2013,Rural,Male,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,Rural,Male,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,Rural,Male,,,Bachelor Degree,,23.2373338
+2013,Rural,Male,,,Post Graduate,,23.2373338
+2013,Rural,Female,,,Never been to school,,23.2373338
+2013,Rural,Female,,,Less than MSLC/BECE,,23.2373338
+2013,Rural,Female,,,MSLC/BECE,,23.2373338
+2013,Rural,Female,,,Secondary,,23.2373338
+2013,Rural,Female,,,Vocational/Tech/Comm.,,23.2373338
+2013,Rural,Female,,,Teacher Training/Agric./Nursing/Certificate,,23.2373338
+2013,Rural,Female,,,"Post Sec. Diploma (HND, Teacher training, University Diploma)",,23.2373338
+2013,Rural,Female,,,Bachelor Degree,,23.2373338
+2013,Rural,Female,,,Post Graduate,,23.2373338
