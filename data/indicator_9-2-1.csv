@@ -1,7 +1,95 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Value
+1990,Manufacturing value added per Capita (GhCedi),1.329380953
+1991,Manufacturing value added per Capita (GhCedi),1.558345735
+1992,Manufacturing value added per Capita (GhCedi),1.768190194
+1993,Manufacturing value added per Capita (GhCedi),2.39801141
+1994,Manufacturing value added per Capita (GhCedi),3.052783945
+1995,Manufacturing value added per Capita (GhCedi),4.548377449
+1996,Manufacturing value added per Capita (GhCedi),6.005529286
+1997,Manufacturing value added per Capita (GhCedi),7.648314551
+1998,Manufacturing value added per Capita (GhCedi),9.079708477
+1999,Manufacturing value added per Capita (GhCedi),10.58223322
+2000,Manufacturing value added per Capita (GhCedi),12.94553045
+2001,Manufacturing value added per Capita (GhCedi),17.66958263
+2002,Manufacturing value added per Capita (GhCedi),22.18397009
+2003,Manufacturing value added per Capita (GhCedi),29.14979169
+2004,Manufacturing value added per Capita (GhCedi),33.48021777
+2005,Manufacturing value added per Capita (GhCedi),39.39846565
+2006,Manufacturing value added per Capita (GhCedi),83.3553061
+2007,Manufacturing value added per Capita (GhCedi),88.90736049
+2008,Manufacturing value added per Capita (GhCedi),99.41558812
+2009,Manufacturing value added per Capita (GhCedi),105.8407601
+2010,Manufacturing value added per Capita (GhCedi),119.2868212
+2011,Manufacturing value added per Capita (GhCedi),152.2654872
+2012,Manufacturing value added per Capita (GhCedi),165.0843989
+2013,Manufacturing value added per Capita (GhCedi),549.5258214
+2014,Manufacturing value added per Capita (GhCedi),651.0187212
+2015,Manufacturing value added per Capita (GhCedi),741.0877268
+2016,Manufacturing value added per Capita (GhCedi),826.6105932
+2017,Manufacturing value added per Capita (GhCedi),908.8404273
+1974,Manufacturing value added as a proportion of GDP (%),10.76824034
+1975,Manufacturing value added as a proportion of GDP (%),13.92984914
+1976,Manufacturing value added as a proportion of GDP (%),13.13954736
+1977,Manufacturing value added as a proportion of GDP (%),10.78255729
+1978,Manufacturing value added as a proportion of GDP (%),8.64048108
+1979,Manufacturing value added as a proportion of GDP (%),8.669670499
+1980,Manufacturing value added as a proportion of GDP (%),7.807639623
+1981,Manufacturing value added as a proportion of GDP (%),5.972370814
+1982,Manufacturing value added as a proportion of GDP (%),3.605287632
+1983,Manufacturing value added as a proportion of GDP (%),3.858379556
+1984,Manufacturing value added as a proportion of GDP (%),6.396164113
+1985,Manufacturing value added as a proportion of GDP (%),11.53248346
+1986,Manufacturing value added as a proportion of GDP (%),11.15063436
+1987,Manufacturing value added as a proportion of GDP (%),9.882026778
+1988,Manufacturing value added as a proportion of GDP (%),9.563827422
+1989,Manufacturing value added as a proportion of GDP (%),10.00659463
+1990,Manufacturing value added as a proportion of GDP (%),9.229963307
+1991,Manufacturing value added as a proportion of GDP (%),8.741675629
+1992,Manufacturing value added as a proportion of GDP (%),8.692492291
+1993,Manufacturing value added as a proportion of GDP (%),9.381536475
+1994,Manufacturing value added as a proportion of GDP (%),9.102436026
+1995,Manufacturing value added as a proportion of GDP (%),9.329773237
+1996,Manufacturing value added as a proportion of GDP (%),8.631120361
+1997,Manufacturing value added as a proportion of GDP (%),9.051681381
+1998,Manufacturing value added as a proportion of GDP (%),8.988055995
+1999,Manufacturing value added as a proportion of GDP (%),9.024374181
+2000,Manufacturing value added as a proportion of GDP (%),9.016668265
+2001,Manufacturing value added as a proportion of GDP (%),9.002855953
+2002,Manufacturing value added as a proportion of GDP (%),9.027184299
+2003,Manufacturing value added as a proportion of GDP (%),8.975523635
+2004,Manufacturing value added as a proportion of GDP (%),8.742055044
+2005,Manufacturing value added as a proportion of GDP (%),8.655377919
+2006,Manufacturing value added as a proportion of GDP (%),9.748596683
+2007,Manufacturing value added as a proportion of GDP (%),8.596404719
+2008,Manufacturing value added as a proportion of GDP (%),7.544118282
+2009,Manufacturing value added as a proportion of GDP (%),6.772090543
+2010,Manufacturing value added as a proportion of GDP (%),6.388658654
+2011,Manufacturing value added as a proportion of GDP (%),6.423765824
+2012,Manufacturing value added as a proportion of GDP (%),5.660586496
+2013,Manufacturing value added as a proportion of GDP (%),11.74503469
+2014,Manufacturing value added as a proportion of GDP (%),11.32658683
+2015,Manufacturing value added as a proportion of GDP (%),11.36703719
+2016,Manufacturing value added as a proportion of GDP (%),11.12244356
+2017,Manufacturing value added as a proportion of GDP (%),10.46487481
+2013 Q1,Manufacturing value added as a proportion of GDP (%),12.00467132
+2013 Q2,Manufacturing value added as a proportion of GDP (%),12.46181063
+2013 Q3,Manufacturing value added as a proportion of GDP (%),12.61110831
+2013 Q4,Manufacturing value added as a proportion of GDP (%),9.997003106
+2014 Q1,Manufacturing value added as a proportion of GDP (%),7.716176753
+2014 Q2,Manufacturing value added as a proportion of GDP (%),10.68427979
+2014 Q3,Manufacturing value added as a proportion of GDP (%),12.93720329
+2014 Q4,Manufacturing value added as a proportion of GDP (%),13.38640575
+2015 Q1,Manufacturing value added as a proportion of GDP (%),10.76840234
+2015 Q2,Manufacturing value added as a proportion of GDP (%),10.91206421
+2015 Q3,Manufacturing value added as a proportion of GDP (%),11.32797038
+2015 Q4,Manufacturing value added as a proportion of GDP (%),12.35684557
+2016 Q1,Manufacturing value added as a proportion of GDP (%),11.52719829
+2016 Q2,Manufacturing value added as a proportion of GDP (%),11.78219782
+2016 Q3,Manufacturing value added as a proportion of GDP (%),10.20820765
+2016 Q4,Manufacturing value added as a proportion of GDP (%),10.99095554
+2017 Q1,Manufacturing value added as a proportion of GDP (%),10.45008539
+2017 Q2,Manufacturing value added as a proportion of GDP (%),11.08311809
+2017 Q3,Manufacturing value added as a proportion of GDP (%),10.80199526
+2017 Q4,Manufacturing value added as a proportion of GDP (%),9.592797409
+2018 Q1,Manufacturing value added as a proportion of GDP (%),10.338848
+2018 Q2,Manufacturing value added as a proportion of GDP (%),10.75451026
