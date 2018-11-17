@@ -1,12 +1,227 @@
-Year,Geagraphy,Value
-2014,,18.38034392
-2014,W estern Region,16.05501133
-2014,Central Region,19.27804461
-2014,Greater Accra Region,14.57014361
-2014,Volta Region,21.44325435
-2014,Eastern Region,19.45860662
-2014,Ashanti Region,22.93047307
-2014,Brong Ahafo Region,18.83069217
-2014,Northern Region,23.80490597
-2014,Upper East Region,21.72170048
-2014,Upper West Region,23.90955073
+Year,Geography,Geography_District,Value
+2014,Ashanti Region,,17.11
+2014,,Atwima Mponua,5.82
+2014,,Amansie West,8.09
+2014,,Amansie Central,7.61
+2014,,Adansi South,11.89
+2014,,Obuasi Municipal,23.87
+2014,,Adansi North,11.31
+2014,,Bekwai Municipal,10.07
+2014,,Bosome Freho,11.62
+2014,,Asante Akim South,13.56
+2014,,Asante Akim Central Municipal,15.09
+2014,,Ejisu Juaben Municipal,15.29
+2014,,Bosumtwi,11.75
+2014,,Atwima Kwanwoma,15.26
+2014,,Kumasi Metropolis,19.34
+2014,,Atwima Nwabiagya,15.96
+2014,,Ahafo Ano South,13.35
+2014,,Ahafo Ano North,12.41
+2014,,Offinso Municipal,18.81
+2014,,Afigya Kwabre,14.31
+2014,,Kwabre East,20.72
+2014,,Afigya Sekyere,10.23
+2014,,Mampong Municipal,11.83
+2014,,Sekyere East,14.26
+2014,,Sekyere Afram Plains,16.05
+2014,,Sekyere Central,9.58
+2014,,Ejura Sekye Dumasi,15.47
+2014,,Offinso North,11.75
+2014,,Asokore Mampong Municipal,23.71
+2014,,Asante Akim North,12.83
+2014,,Sekyere Afram Plains North,7.29
+2014,Volta Region,,16.86
+2014,,South Tongu,13.11
+2014,,Keta Municapal,17.61
+2014,,Ketu South,23.82
+2014,,Ketu North,25.18
+2014,,Akatsi South,21.55
+2014,,Central Tongu,13.07
+2014,,Agotime Ziope,12.26
+2014,,Ho Municipal,14.63
+2014,,South Dayi,8.38
+2014,,Kpando Municipal,13.6
+2014,,Hohoe Municipal,17.38
+2014,,Biakoye,12.56
+2014,,Jasikan,11.3
+2014,,Kadjebi,12.21
+2014,,Krachi East,28.21
+2014,,Krachi West,18.4
+2014,,Nkwanta South,16.02
+2014,,Nkwanta North,16.92
+2014,,North Tongu,28.86
+2014,,Akatsi North,12.8
+2014,,Adaklu,12.79
+2014,,Ho West,8.08
+2014,,Afadzato South,8.88
+2014,,North Dayi,6.04
+2014,,Krachi Nchumuru,11.08
+2014,Western Region,,21.99
+2014,,Jomoro,11.01
+2014,,Ellembelle,20.68
+2014,,Nzema East,11.67
+2014,,Ahanta West,20.38
+2014,,Sekondi Takoradi Metropolis,21.58
+2014,,Shama,16.6
+2014,,Wassa East,7.34
+2014,,Tarkwa Nsuaem Municipal,43.17
+2014,,Prestea/Huni Valley,28.51
+2014,,Wassa Amenfi East,6.34
+2014,,Wassa Amenfi West,28.93
+2014,,Aowin,16.09
+2014,,Sefwi Akontombra,13.75
+2014,,Sefwi Wiawso,22.78
+2014,,Sefwi Bibiani-Ahwiaso Bekwai,29.63
+2014,,Juabeso,8.92
+2014,,Bia west,13.75
+2014,,Mpohor,42.34
+2014,,Wassa Amenfi Central,11.34
+2014,,Suaman,15.15
+2014,,Bodi,13.91
+2014,,Bia East,13.37
+2014,Greater Accra Region,,19.39
+2014,,Ga South Municipal,12.95
+2014,,Ga West Municipal,16.22
+2014,,Ga East Municipal,15.31
+2014,,Accra Metropolis,18.24
+2014,,Adenta Municipal,34.95
+2014,,Ledzokuku/Krowor Municipal,19.95
+2014,,Ashaiman Municipal,16.83
+2014,,Tema Metropolis,29.03
+2014,,Shai Osudoku,12.25
+2014,,Ada East,13.47
+2014,,Ga Central Municipal,13.85
+2014,,La Dade Kotopon Municipal,9.92
+2014,,La Nkwantanang Madina Municipal,15.88
+2014,,Kpone Katamanso,17.98
+2014,,Ningo Prampram,21.37
+2014,,Ada West,20.34
+2014,Eastern Region,,14.23
+2014,,Birim South,10.19
+2014,,Birim Municipal,20.56
+2014,,West Akim Municipal,12.93
+2014,,Suhum Municipal,18.45
+2014,,Nsawam Adoagyiri Municipal,15.09
+2014,,Akwapem North,7.9
+2014,,New Juaben Municipal,12.29
+2014,,Yilo Krobo,15.26
+2014,,Lower Manya,15.08
+2014,,Asuogyaman,21.23
+2014,,Upper Manya,12.57
+2014,,Fanteakwa,11.55
+2014,,East Akim Municipal,9.83
+2014,,Kwaebibirem,16.98
+2014,,Akyem Mansa,18.97
+2014,,Birim North,19.26
+2014,,Atiwa,9.18
+2014,,Kwahu West Municipal,13.61
+2014,,Kwahu South,9.74
+2014,,Kwahu East,6.75
+2014,,Kwahu Afram Plains North,12.23
+2014,,Upper West Akyem,16.47
+2014,,Akwapim South,8.12
+2014,,Ayensuano,10.47
+2014,,Denkyembuor,31.55
+2014,,Kwahu Afram Plains South,8.04
+2014,Northern Region,,19.26
+2014,,Bole,11.59
+2014,,Sawla-Tuna-Kalba,24.87
+2014,,West Gonja,20.98
+2014,,Gonja Central,26.13
+2014,,East Gonja,16.07
+2014,,Kpandai,13.11
+2014,,Nanumba South,12.81
+2014,,Nanumba North,18.47
+2014,,Zabzugu,18.25
+2014,,Yendi Municipal,23.66
+2014,,Tamale Metropolis,21.52
+2014,,Tolon,18
+2014,,Savelugu Nanton,15.56
+2014,,Karaga,17.98
+2014,,Gushiegu,23.58
+2014,,Saboba,19.22
+2014,,Chereponi,14.38
+2014,,Bunkpurugu Yonyo,12.7
+2014,,Mamprusi East,12.27
+2014,,Mamprusi West,18.27
+2014,,North Gonja,10.72
+2014,,Kumbumgu,29.75
+2014,,Sagnerigu Municipal,17.48
+2014,,Mion,12.5
+2014,,Tatale,23.59
+2014,,Mamprugu Moagduri,26.84
+2014,Upper East Region,,19.31
+2014,,Builsa North,13.71
+2014,,Kasena Nankana West,20.5
+2014,,Kasena Nankana East,11.13
+2014,,Bolgatanga Municipal,20.7
+2014,,Talensi,24.03
+2014,,Bongo,29.79
+2014,,Bawku West,19.62
+2014,,Garu Tempane,17.14
+2014,,Bawku Municipal,17.13
+2014,,Builsa South,14.47
+2014,,Nabdam,15.79
+2014,,Binduri,16.4
+2014,,Pusiga,30.32
+2014,,Upper West Region,17.49
+2014,,Wa West,19.79
+2014,,Wa Municipal,20.23
+2014,,Wa East,7.97
+2014,,Sissala East,13.71
+2014,,Nadowli-Kaleo,17.5
+2014,,Jirapa,19.25
+2014,,Sissala West,14.54
+2014,,Lambussie Karni,19.14
+2014,,Lawra,14.11
+2014,,Daffiama Bussie,14.34
+2014,,Nandom,14.79
+2014,Central Region,,14.62
+2014,,Komenda-Edina-Eguafo-Abirem Municipal,12.12
+2014,,Cape Coast Metropolis,23.25
+2014,,Abura-Asebu-Kwamankese,10.86
+2014,,Mfantsiman,11.75
+2014,,Ajumako-Enyan-Essiam,7.26
+2014,,Gomoa West,10.06
+2014,,Effutu Municipal,12.32
+2014,,Gomoa East,15.25
+2014,,Awutu Senya,11.31
+2014,,Agona East,10.59
+2014,,Agona West Municipal,14.81
+2014,,Asikuma-Odoben Brakwa,13.78
+2014,,Assin South,8.37
+2014,,Assin North Municipal,13.49
+2014,,TwifoAti Morkwa,23.75
+2014,,Upper Denkyira East Municipal,11.22
+2014,,Upper Denkyira West,15.73
+2014,,Twifo Heman Lower Denkyira,21.56
+2014,,Ekumfi,5.45
+2014,,Awutu Senya East Municipal,14.9
+2014,Brong Ahafo Region,,16
+2014,,Asunafo South,13.04
+2014,,Asunafo North Municipal,31.84
+2014,,Asutifi North,26.32
+2014,,Dormaa Municipal,10.64
+2014,,Dormaa Central Municipal,13.98
+2014,,Tano South,11.94
+2014,,Tano North,12.48
+2014,,Sunyani Municipal,14.02
+2014,,Sunyani West,13.4
+2014,,Berekum Municipal,19.51
+2014,,Jaman South,11.21
+2014,,Jaman North,9.47
+2014,,Tain,16.11
+2014,,Wenchi Municipal,10.94
+2014,,Techiman Municipal,17.99
+2014,,Nkoranza South,15.88
+2014,,Nkoranza North,7.15
+2014,,Atebubu Amantin,11.6
+2014,,Sene West,12.37
+2014,,Pru,19.73
+2014,,Kintampo South,12.57
+2014,,Kintampo North Municipal,16.96
+2014,,Asutifi South,10.75
+2014,,Dormaa West,9.74
+2014,,Techiman North,29.05
+2014,,Banda,31.8
+2014,,Sene East,7.88
