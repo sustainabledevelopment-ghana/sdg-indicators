@@ -19,10 +19,6 @@ This document, the United Nations Sustainable Development Partnership (UNSDP) 20
 
 **[Sustainable Development Goals in Ghana, November 2017](http://gh.one.un.org/content/dam/unct/ghana/docs/SDGs/UNCT-GH-SDGs-in-Ghana-Avocacy-Messages-2017.pdf)**. This publication suggests why each of the goals should matter to us and what we can do, as individuals to contribute to their successful implementation in Ghana and to ensure that no one is left behind.
 
-**[SDG Indicator Brief Ghana Volume 5, 17 April 2017]()** This brief provides data and indicators available from the fourth round of the PMA2020 survey in Ghana, conducted in 2015
-
-**[Ghana’s Data for Sustainable Development Roadmap Forum, 5-6th April 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Forum%20report%20final.pdf)**. This report summarises the outcomes from a data forum that brought together a diverse set of data producers and users, as well as innovators in the field to discuss the way forward, including through exploring how new technologies and approaches can be used to strengthen the data ecosystem in Ghana
-
 **[Data Production for SDG indicators in Ghana, March 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Data%20and%20the%20SDGs%20in%20Ghana_Final2.pdf)**. This report presents the current situation in Ghana, regarding data production for SDG indicators, as understood by Ghana Statistical Service. These outcomes are based on a series of consultations with stakeholders.
 
 **[“The New Global Goals Fly High in Ghana”, UNDP Biannual Newsletter, January 2016]()**
@@ -38,6 +34,10 @@ This document, the United Nations Sustainable Development Partnership (UNSDP) 20
 Ghana’s Data for Sustainable Development Roadmap Forum, 5-6th April 2017 This report summarises the outcomes from a data forum that brought together a diverse set of data producers and users, as well as innovators in the field to discuss the way forward, including through exploring how new technologies and approaches can be used to strengthen the data ecosystem in Ghana
 
 Data Production for SDG indicators in Ghana, March 2017  This report presents the current situation in Ghana, regarding data production for SDG indicators, as understood by Ghana Statistical Service. These outcomes are based on a series of consultations with stakeholders.
+
+**[SDG Indicator Brief Ghana Volume 5, 17 April 2017]()** This brief provides data and indicators available from the fourth round of the PMA2020 survey in Ghana, conducted in 2015
+
+**[Ghana’s Data for Sustainable Development Roadmap Forum, 5-6th April 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Forum%20report%20final.pdf)**. This report summarises the outcomes from a data forum that brought together a diverse set of data producers and users, as well as innovators in the field to discuss the way forward, including through exploring how new technologies and approaches can be used to strengthen the data ecosystem in Ghana
 
 ### Strategic documentation that the SDGs also support:
 
