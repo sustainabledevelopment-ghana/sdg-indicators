@@ -20,14 +20,16 @@ This document, the United Nations Sustainable Development Partnership (UNSDP) 20
 ### [Sustainable Development Goals in Ghana, November 2017](http://gh.one.un.org/content/dam/unct/ghana/docs/SDGs/UNCT-GH-SDGs-in-Ghana-Avocacy-Messages-2017.pdf). 
 This publication suggests why each of the goals should matter to us and what we can do, as individuals to contribute to their successful implementation in Ghana and to ensure that no one is left behind.
 
-### [Data Production for SDG indicators in Ghana, March 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Data%20and%20the%20SDGs%20in%20Ghana_Final2.pdf). This report presents the current situation in Ghana, regarding data production for SDG indicators, as understood by Ghana Statistical Service. These outcomes are based on a series of consultations with stakeholders.
+### [Data Production for SDG indicators in Ghana, March 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Data%20and%20the%20SDGs%20in%20Ghana_Final2.pdf).
+This report presents the current situation in Ghana, regarding data production for SDG indicators, as understood by Ghana Statistical Service. These outcomes are based on a series of consultations with stakeholders.
 
 **[“The New Global Goals Fly High in Ghana”, UNDP Biannual Newsletter, January 2016](http://www.gh.undp.org/content/dam/ghana/docs/Doc/Communication/UNDP_GH_COMM__Newsletter_January2016.pdf)**
 
-**Strategic documentation that the SDGs also support:**
+### Strategic documentation that the SDGs also support
 [National Strategy for the Development of Statistics, Ghana 2018-2022](http://www.statsghana.gov.gh/docfiles/publications/NSDS%20II%20Ghana_Revised_16.03.18.pdf)  This is a comprehensive strategic document which seeks to guide the evolution of the National Statistical System (NSS) to enable it to produce the statistical knowledge the country needs in order to fulfil its development potential. This National Strategy for the Development of Statistics is primarily concerned with setting a vision for the next 5 years (2018‐ 2022) and providing milestones that the NSS must reach in order to make that vision a reality. This strategy seeks to create a system which is capable of being responsive to users’ needs by providing a basis for results‐oriented strategic management of the NSS and acting as a framework to mobilise and manage resources.
 
-[African Union Agenda 2063](https://au.int/Agenda2063/popular_version)  This is a strategic framework for the socio-economic transformation of the continent over the next 50 years. Its builds on, and seeks to accelerate the implementation of past and existing continental initiatives for growth and sustainable development.
+### [African Union Agenda 2063](https://au.int/Agenda2063/popular_version)  
+This is a strategic framework for the socio-economic transformation of the continent over the next 50 years. Its builds on, and seeks to accelerate the implementation of past and existing continental initiatives for growth and sustainable development.
 
 
 ### All stakeholder forums
