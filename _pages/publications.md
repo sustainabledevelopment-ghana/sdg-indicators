@@ -41,10 +41,6 @@ Data Production for SDG indicators in Ghana, March 2017  This report presents th
 
 **[Ghana’s Data for Sustainable Development Roadmap Forum, 5-6th April 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Forum%20report%20final.pdf)**. This report summarises the outcomes from a data forum that brought together a diverse set of data producers and users, as well as innovators in the field to discuss the way forward, including through exploring how new technologies and approaches can be used to strengthen the data ecosystem in Ghana
 
-### Strategic documentation that the SDGs also support
-
-National Strategy for the Development of Statistics, Ghana 2018-2022  This is a comprehensive strategic document which seeks to guide the evolution of the National Statistical System (NSS) to enable it to produce the statistical knowledge the country needs in order to fulfil its development potential. This National Strategy for the Development of Statistics is primarily concerned with setting a vision for the next 5 years (2018‐ 2022) and providing milestones that the NSS must reach in order to make that vision a reality. This strategy seeks to create a system which is capable of being responsive to users’ needs by providing a basis for results‐oriented strategic management of the NSS and acting as a framework to mobilise and manage resources.
-African Union Agenda 2063  This is a strategic framework for the socio-economic transformation of the continent over the next 50 years. Its builds on, and seeks to accelerate the implementation of past and existing continental initiatives for growth and sustainable development.
 
 ### Goal 4 Quality Education ###
  [An Assessment of Sustainable Development Goal Four (SDG 4), In Relation to the Standard of Basic Education in Ghana, July 2017](http://ugspace.ug.edu.gh/bitstream/handle/123456789/23007/An%20Assessment%20Of%20Sustainable%20Development%20Goal%20Four%20%28SDG%204%29%2C%20In%20Relation%20To%20The%20Standard%20Of%20Basic%20Education%20In%20Ghana.pdf?sequence=1&isAllowed=y)
