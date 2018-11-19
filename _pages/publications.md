@@ -6,7 +6,7 @@ layout: page
 
 Ghana Statistical Service (GSS) is responsible for collecting and reporting data to track Ghana’s progress towards the Sustainable Development Goals (SDGs).  GSS is also working with stakeholders and other producers of statistics to understand how new methods and innovations can be harnessed to fill SDG data gaps to ensure that we Leave No One Behind.
 
-If you have any feedback on our publications please contact us a sdg.secretariat@statsghana.gov.gh
+If you have any feedback on our publications please contact us at sdg.secretariat@statsghana.gov.gh
 
 ### All goals
 
@@ -21,9 +21,6 @@ This document, the United Nations Sustainable Development Partnership (UNSDP) 20
 ### [Sustainable Development Goals in Ghana, November 2017](http://gh.one.un.org/content/dam/unct/ghana/docs/SDGs/UNCT-GH-SDGs-in-Ghana-Avocacy-Messages-2017.pdf). 
 This publication suggests why each of the goals should matter to us and what we can do, as individuals to contribute to their successful implementation in Ghana and to ensure that no one is left behind.
 
-### [Data Production for SDG indicators in Ghana, March 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Data%20and%20the%20SDGs%20in%20Ghana_Final2.pdf).
-This report presents the current situation in Ghana, regarding data production for SDG indicators, as understood by Ghana Statistical Service. These outcomes are based on a series of consultations with stakeholders.
-
 **[“The New Global Goals Fly High in Ghana”, UNDP Biannual Newsletter, January 2016](http://www.gh.undp.org/content/dam/ghana/docs/Doc/Communication/UNDP_GH_COMM__Newsletter_January2016.pdf)**
 
 ### Strategic documentation that the SDGs also support
@@ -35,7 +32,8 @@ This is a strategic framework for the socio-economic transformation of the conti
 
 ### All stakeholder forums
 
-Data Production for SDG indicators in Ghana, March 2017  This report presents the current situation in Ghana, regarding data production for SDG indicators, as understood by Ghana Statistical Service. These outcomes are based on a series of consultations with stakeholders.
+### [Data Production for SDG indicators in Ghana, March 2017](http://www.statsghana.gov.gh/docfiles/SDGs/Data%20and%20the%20SDGs%20in%20Ghana_Final2.pdf).
+This report presents the current situation in Ghana, regarding data production for SDG indicators, as understood by Ghana Statistical Service. These outcomes are based on a series of consultations with stakeholders.
 
 **[SDG Indicator Brief Ghana Volume 5, 17 April 2017](https://www.pma2020.org/sites/default/files/SDG-Indicator%20brief%20ghana-v5-2017-04-17.pdf)** This brief provides data and indicators available from the fourth round of the PMA2020 survey in Ghana, conducted in 2015
 
