@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 permalink: /about/
 layout: page
 ---
@@ -17,4 +17,4 @@ If you have any feedback on this National Reporting Platform or Ghana SDG data, 
 
 The answers to some frequently asked questions are also available in our [FAQs](https://sustainabledevelopment-ghana.github.io/sdg-indicators/faq/).
 
-This website is for disseminating Ghana SDG data.
+
