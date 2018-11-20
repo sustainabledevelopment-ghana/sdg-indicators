@@ -105,6 +105,11 @@
           <li role="presentation" class="nav-item map" style="display:none">
             <a class="nav-link" data-toggle="tab" href="#mapview" aria-controls="mapview" role="tab">Map</a>
           </li>
+          {%- if page.embedded_map_html -%}
+            <li role="presentation" class="nav-item embedded-map">
+              <a class="nav-link" data-toggle="tab" href="#embeddedmapview" aria-controls="embeddedmapview" role="tab">Map</a>
+            </li>
+          {%- endif -%}
         </ul>
         
         <!-- Tab panes -->
@@ -116,18 +121,17 @@
             <div id="selectionsTable"></div>
           </div>
           <div role="tabpanel" class="tab-pane" id="mapview" class="map">
-              {% if show_embedded_map %}
-                <div>
-                    {{ page.embedded_map_html }}
-                </div>
-              {% else %}  
-                <div id="map">
-                  <img src="{{ site.baseurl }}/assets/img/loading.gif" alt="Loading map" />
-                </div>
-              {% endif %}  
+              <div id="map">
+                <img src="{{ site.baseurl }}/assets/img/loading.gif" alt="Loading map" />
+              </div>
+          </div>        
+          {% if show_embedded_map %}
+          <div role="tabpanel" class="tab-pane" id="embeddedmapview" class="embeddedmap">
+            {{ page.embedded_map_html }}
           </div>
-        </div>
-        {% endif %}
+          {% endif %}
+		</div>
+		{% endif %}
         
         <div class="alert alert-warning" role="alert">
           <i class="fa fa-info" aria-hidden="true"></i> See metadata tab for definitions and methodology information
@@ -193,4 +197,4 @@
 </div>
 
 {% include footer.html %}
-  
+ 

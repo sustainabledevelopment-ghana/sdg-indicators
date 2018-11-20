@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## How do I suggest new or different data sources?
-If you have feedback on the data sources we have used or have suggestions for new data sources then please email us at <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>.
+If you have feedback on the data sources we have used or have suggestions for new data sources then please email us at <a href="mailto:{{site.email_contacts.questions}}">sdg.secretariat@statsghana.gov.gh</a>.
 
 ## What does the reporting status mean?
 We have used three different types of reporting status for an indicator, which are also colour coded:
@@ -20,7 +20,7 @@ Where there is additional information about the status of indicator data collect
 We will add data as soon as it has been sourced and checked. This includes new data as well as updates to data we have already published. We will continue to collect data from existing sources where possible, in cooperation with topic experts.
 
 ## What browsers can I use to view this website?
-We are developing and testing our site in line with the Government Digital Service (GDS) [guidance on designing for different browsers and devices](https://www.gov.uk/service-manual/technology/designing-for-different-browsers-and-devices). Our website works with most of the latest versions of the commonly used browsers listed in the ‘Browsers to test in’ section of the GDS guidance. There are some issues with using the site on older versions of browsers eg IE8 and we are working to fix these.
+We are developing and testing our site in line with the UK ONS team. Our website works with most of the latest versions of the commonly used browsers. There are some issues with using the site on older versions of browsers eg IE8 and we are working to fix these. The website can best be viewed with a chrome browser.
 
 <!-- DO NOT REMOVE ANYTHING BELOW THIS LINE -->
 <script type='text/javascript'>
