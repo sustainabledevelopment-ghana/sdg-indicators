@@ -19,9 +19,9 @@ analytics:
 
 ###################################################################################################
 email_contacts:
-  questions: email@email.com
-  suggestions: email@email.com
-  functional: email@email.com
+  questions: sdg.secretariat@statsghana.gov.gh
+  suggestions: sdg.secretariat@statsghana.gov.gh
+  functional: sdg.secretariat@statsghana.gov.gh
 ###################################################################################################
 
 #Github Repo
