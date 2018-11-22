@@ -107,9 +107,9 @@ Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wea
 1998,,,Northern,,,,,26.7
 1998,,,Upper East,,,,,28.4
 1998,,,Upper West,,,,,25.5
-1998,,,,<20,,,,48.8
-1998,,,,20-29,,,,25.3
-1998,,,,30-39,,,,38.4
+1998,,,,less than 20,,,,48.8
+1998,,,,20 to 29,,,,25.3
+1998,,,,30 to 39,,,,38.4
 1998,,,,,No education,,,33.8
 1998,,,,,Primary,,,41.1
 1998,,,,,Middle/JSS/JHS,,,28.6
@@ -133,9 +133,9 @@ Year,Location,Child's sex,Geography,Mother's age at birth,Mother's education,Wea
 1993,,,Northern,,,,,72.7
 1993,,,Upper East,,,,,40.7
 1993,,,Upper West,,,,,46.2
-1993,,,,<20,,,,59.3
-1993,,,,20-29,,,,41.9
-1993,,,,30-39,,,,44.8
+1993,,,,less than 20,,,,59.3
+1993,,,,20 to 29,,,,41.9
+1993,,,,30 to 39,,,,44.8
 1993,,,,,No education,,,51.5
 1993,,,,,Primary,,,55.6
 1993,,,,,Middle/JSS/JHS,,,35.4
