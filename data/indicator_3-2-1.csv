@@ -1,4 +1,4 @@
-Year,Location,Sex of child,Geography,Mothers age at birth,Mothers education,Wealth quintile,Birth order,Value
+Year,Location,Sex of Child,Geography,Mothers age at birth,Mothers education,Wealth quintile,Birth order,Value
 2014,,,,,,,,60.0
 2014,Urban,,,,,,,64.0
 2014,Rural,,,,,,,75.0
