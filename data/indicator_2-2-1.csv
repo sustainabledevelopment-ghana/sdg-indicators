@@ -74,31 +74,31 @@ Year,Location,Sex,Geography,Child's age,Value
 1993,,,Northern,,35.9
 1993,,,Upper East,,33.3
 1993,,,Upper West,,26
-2014,,,,less than 6 months,5.9
-2014,,,,6 to 11 months,16.4
-2014,,,,12 to 23 months,34.6
-2014,,,,24 to 35 months,28.2
-2014,,,,36 to 47 months,22.9
-2014,,,,48 to 59 months,17.7
-2008,,,,less than 6 months,4.3
-2008,,,,6 to 11 months,27
-2008,,,,12 to 23 months,62.4
-2008,,,,24 to 35 months,32.6
-2008,,,,36 to 47 months,33.4
-2008,,,,48 to 59 months,32.3
-2003,,,,less than 6 months,6.3
-2003,,,,6 to 11 months,31.4
-2003,,,,12 to 23 months,35.2
-2003,,,,24 to 35 months,32.5
-2003,,,,36 to 47 months,35
-2003,,,,48 to 59 months,33.4
-1998,,,,less than 6 months,2.9
-1998,,,,6 to 11 months,8.8
-1998,,,,12 to 23 months,27
-1998,,,,24 to 35 months,27.5
-1998,,,,36 to 47 months,37.3
-1998,,,,48 to 59 months,35.1
-1993,,,,less than 6 months,5.7
-1993,,,,6 to 11 months,9.7
-1993,,,,12 to 23 months,34.3
-1993,,,,24 to 35 months,38.9
+2014,,,,<6 months,5.9
+2014,,,,6-11 months,16.4
+2014,,,,12-23 months,34.6
+2014,,,,24-35 months,28.2
+2014,,,,36-47 months,22.9
+2014,,,,48-59 months,17.7
+2008,,,,<6 months,4.3
+2008,,,,6-11 months,27
+2008,,,,12-23 months,62.4
+2008,,,,24-35 months,32.6
+2008,,,,36-47 months,33.4
+2008,,,,48-59 months,32.3
+2003,,,,<6 months,6.3
+2003,,,,6-11 months,31.4
+2003,,,,12-23 months,35.2
+2003,,,,24-35 months,32.5
+2003,,,,36-47 months,35
+2003,,,,48-59 months,33.4
+1998,,,,<6 months,2.9
+1998,,,,6-11 months,8.8
+1998,,,,12-23 months,27
+1998,,,,24-35 months,27.5
+1998,,,,36-47 months,37.3
+1998,,,,48-59 months,35.1
+1993,,,,<6 months,5.7
+1993,,,,6-11 months,9.7
+1993,,,,12-23 months,34.3
+1993,,,,24-35 months,38.9
