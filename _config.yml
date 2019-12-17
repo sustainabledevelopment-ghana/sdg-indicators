@@ -17,12 +17,12 @@ environment: staging
 analytics:
   ga_prod: ''
 
-###################################################################################################
+####################################################################################################
 email_contacts:
   questions: sdg.secretariat@statsghana.gov.gh
   suggestions: sdg.secretariat@statsghana.gov.gh
   functional: sdg.secretariat@statsghana.gov.gh
-###################################################################################################
+####################################################################################################
 
 #Github Repo
 repo_name: sdg-indicators
